@@ -1,6 +1,6 @@
 # Hotel Booking Analysis
 The project aims to analyze hotel booking data, identify trends, predict revenue, and develop machine learning models for forecasting.
-
+ 
 ## Project Structure
 
 - **data/**: Contains the dataset used for analysis.
