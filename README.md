@@ -4,8 +4,8 @@ The project aims to analyze hotel booking data, identify trends, predict revenue
 ## Project Structure
 
 - **data/**: Contains the dataset used for analysis.
-- **notebooks/**: Contains the Jupyter Notebook with the full analysis.
-- **scripts/**: Contains Python scripts for data preprocessing, model training, and making predictions
+- **notebooks/**: Contains the Jupyter Notebook with the different code.
+- **results/**: Contains figure from all the analysis done in the notebooks
 - **README.md**: Project documentation.
 - **requirements.txt**: List of dependencies.
 
