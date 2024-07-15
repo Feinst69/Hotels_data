@@ -1,0 +1,6 @@
+```plaintext
+pandas
+sqlalchemy
+scikit-learn
+matplotlib
+seaborn
